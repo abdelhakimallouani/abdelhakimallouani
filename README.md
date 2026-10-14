@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abdelhakim Allouani and I'm a Frontend Developer, from Morocco 🇲🇦</h2>
+<h2 align="left">Hi 👋! My name is Abdelhakim Allouani and I'm a Full Stack Developer, from Morocco</h2>
 
 ###
 
