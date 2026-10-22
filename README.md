@@ -15,6 +15,12 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
   <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="30" alt="spring boot logo" />
+  <img width="12" style="display: none;" />
+
+  <!-- Newly added -->
+  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" height="30" alt="jira logo" />
+  <img width="12" style="display: none;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
