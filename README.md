@@ -17,6 +17,8 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="30" alt="spring boot logo" />
   <img width="12" style="display: none;" />
+    <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" height="30" alt="hibernate logo" />
+  <img width="12" style="display: none;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo" />
@@ -35,6 +37,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
   <img width="12" />
+
+  <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" height="30" alt="maven logo" />
+  <img width="12" style="display: none;" />
+
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="30" alt="aws logo" />
+  <img width="12" style="display: none;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
